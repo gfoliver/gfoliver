@@ -1,4 +1,4 @@
-![gfoliver](https://repository-images.githubusercontent.com/283231326/a4308780-d0c5-11ea-9f57-1d7117c0b2c4)
+# Guilherme Fleck Oliveira
 ### About
 
 * Hello 😄, my name is Guilherme and i'm a Web Developer from Porto Alegre, Brasil
