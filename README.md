@@ -3,6 +3,10 @@
 
 * Hello 😄, my name is Guilherme and i'm a Web Developer from Porto Alegre, Brasil
 
+### Check out my website!
+
+* https://gfoliver.github.io/
+
 ### Techs
 
 * [React](https://reactjs.org/)
