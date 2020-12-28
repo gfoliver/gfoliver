@@ -13,8 +13,8 @@
 * [React Native](https://reactnative.dev/)
 * [NodeJS](https://nodejs.org)
 * [VueJS](https://vuejs.org/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfoliver&hide=java&layout=compact)
+* [PHP](https://www.php.net/)
+* [Laravel](https://laravel.com/)
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Fleck-18242D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-fleck-oliveira/)](https://www.linkedin.com/in/guilherme-fleck-oliveira/) 
