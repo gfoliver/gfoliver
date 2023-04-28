@@ -7,6 +7,11 @@
 
 * https://gfoliver.github.io/
 
+### Stats
+
+[![Stats-Dark](https://github-readme-stats.vercel.app/api?username=gfoliver&count_private=true&show_icons=true&theme=dark&hide=contribs#gh-dark-mode-only)]([#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=gfoliver&count_private=true&show_icons=true&theme=dark&hide=contribs#gh-dark-mode-only))
+[![Stats-Light](https://github-readme-stats.vercel.app/api?username=gfoliver&count_private=true&show_icons=true&theme=default&hide=contribs#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=gfoliver&count_private=true&show_icons=true&theme=default&hide=contribs#gh-light-mode-only)
+
 ### Techs
 
 * [React](https://reactjs.org/)
