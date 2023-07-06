@@ -10,6 +10,8 @@
 ### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gfoliver&count_private=true&show_icons=true&theme=transparent&hide=contribs)
+####
+![GitHub Streak](https://streak-stats.demolab.com?user=gfoliver&theme=transparent&exclude_days=Sun%2CSat&card_width=467)
 
 ### Techs
 
